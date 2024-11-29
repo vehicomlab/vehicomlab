@@ -1,6 +1,5 @@
-🏎️ Vehicular Communications Laboratory 
-
-📍 University of Modena and Reggio Emilia, Modena, Italy 
+- Vehicular Communications Laboratory 🏎️ 
+- University of Modena and Reggio Emilia, Modena, Italy 📍
 
 <!---
 vehicomlab/vehicomlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
